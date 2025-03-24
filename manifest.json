@@ -1,0 +1,26 @@
+{
+    "name": "OC_Co-op_ModPack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Tuumke/valheimmods",
+    "description": "The modpack we use on our COOP server",
+    "dependencies": [
+        "Azumatt-AAA_Crafting-1.6.6",
+        "Searica-AdvancedTerrainModifiers-1.4.1",
+        "TastyChickenLegs-AutomaticFuel-1.4.4",
+        "eideehi-Automatics-1.5.1",
+        "Azumatt-AzuAutoStore-3.0.7",
+        "Azumatt-AzuCraftyBoxes-1.7.2",
+        "Azumatt-AzuExtendedPlayerInventory-1.4.9",
+        "Smoothbrain-Backpacks-1.3.6",
+        "denikson-BepInExPack_Valheim-5.4.2202",
+        "Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.7",
+        "Frogger-ChestSnap-0.0.3",
+        "Crystal-DigDeeper-1.1.5",
+        "Searica-DiscoveryPins-0.3.10",
+        "Horem-Fantasy_Creatures-0.3.10",
+        "Azumatt-FirstPersonMode-1.3.9",
+        "JuneGame-ForsakenPowerOverhaul-2.1.0",
+        "makail-ItemDrawers-0.5.8",
+        "Smoothbrain-Jewelcrafting-1.5.33"
+    ]
+}

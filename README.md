@@ -1,0 +1,21 @@
+# Modpack used on the Odd Company co-op Valheim server
+Below is a list, sorted alphabetically:
+
+1. [AAA Crafting](https://thunderstore.io/c/valheim/p/Azumatt/AAA_Crafting/) 
+2. [AdvancedTerrainModifiers](https://thunderstore.io/c/valheim/p/Searica/AdvancedTerrainModifiers/)
+3. [AutomaticFuel](https://thunderstore.io/c/valheim/p/TastyChickenLegs/AutomaticFuel/)
+4. [Automatics](https://thunderstore.io/c/valheim/p/eideehi/Automatics/)
+5. [AzuAutoStore](https://thunderstore.io/c/valheim/p/Azumatt/AzuAutoStore/)
+6. [AzuCraftyBoxes](https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes/)
+7. [AzuExtendedPlayerInventory](https://thunderstore.io/c/valheim/p/Azumatt/AzuExtendedPlayerInventory/)
+8. [Backpacks](https://thunderstore.io/c/valheim/p/Smoothbrain/Backpacks/)
+9. [BepInExPack Valheim](https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/)
+10. [Build Camera Custom Hammers Edition](https://thunderstore.io/c/valheim/p/Azumatt/Build_Camera_Custom_Hammers_Edition/)
+11. [ChestSnap](https://thunderstore.io/c/valheim/p/Frogger/ChestSnap/)
+12. [DigDeeper](https://thunderstore.io/c/valheim/p/Crystal/DigDeeper/)
+13. [DiscoveryPins](https://thunderstore.io/c/valheim/p/Searica/DiscoveryPins/)
+14. [Fantasy Creatures](https://thunderstore.io/c/valheim/p/Horem/Fantasy_Creatures/)
+15. [FirstPersonMode](https://thunderstore.io/c/valheim/p/Azumatt/FirstPersonMode/)
+16. [ForsakenPowerOverhaul](https://thunderstore.io/c/valheim/p/JuneGame/ForsakenPowerOverhaul/)
+17. [ItemDrawers](https://thunderstore.io/c/valheim/p/makail/ItemDrawers/)
+18. [Jewelcrafting](https://thunderstore.io/c/valheim/p/Smoothbrain/Jewelcrafting/)
