@@ -1,6 +1,11 @@
 # Version overview
+[1.0.2](https://github.com/Tuumke/valheimmods/blob/main/CHANGELOG.md#1.0.2)
 [1.0.1](https://github.com/Tuumke/valheimmods/blob/main/CHANGELOG.md#1.0.1)
 [1.0.0](https://github.com/Tuumke/valheimmods/blob/main/CHANGELOG.md#1.0.0)
+
+# [Version 1.0.2](#1.0.2)
+- Added VikingsDoSwim
+
 
 # [Version 1.0.1](#1.0.1)
 - Version bumps

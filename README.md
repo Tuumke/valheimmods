@@ -42,8 +42,9 @@ Below is a list, sorted alphabetically:
 39. [TraderQuest](https://thunderstore.io/c/valheim/p/RustyMods/TraderQuest/)
 40. [TradersExtended](https://thunderstore.io/c/valheim/p/shudnal/TradersExtended/)
 41. [ValheimRAFT](https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/)
-42. [Warfare](https://thunderstore.io/c/valheim/p/Therzie/Warfare/)
-43. [WieldEquipmentWhileSwimming](https://thunderstore.io/c/valheim/p/blacks7ar/WieldEquipmentWhileSwimming/)
+42. [VikingsDoSwim](https://thunderstore.io/c/valheim/p/blacks7ar/VikingsDoSwim/)
+43. [Warfare](https://thunderstore.io/c/valheim/p/Therzie/Warfare/)
+44. [WieldEquipmentWhileSwimming](https://thunderstore.io/c/valheim/p/blacks7ar/WieldEquipmentWhileSwimming/)
 
 # Mods not in the pack as they are client-side and to your own preference:
 1. [AutoShield](https://thunderstore.io/c/valheim/p/Ratzu/AutoShield/)
