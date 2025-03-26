@@ -1,8 +1,8 @@
 # Version overview
-[1.0.3](https://github.com/Tuumke/valheimmods/blob/main/CHANGELOG.md#1.0.3)
-[1.0.2](https://github.com/Tuumke/valheimmods/blob/main/CHANGELOG.md#1.0.2)
-[1.0.1](https://github.com/Tuumke/valheimmods/blob/main/CHANGELOG.md#1.0.1)
-[1.0.0](https://github.com/Tuumke/valheimmods/blob/main/CHANGELOG.md#1.0.0)
+- [1.0.3](https://github.com/Tuumke/valheimmods/blob/main/CHANGELOG.md#1.0.3)
+- [1.0.2](https://github.com/Tuumke/valheimmods/blob/main/CHANGELOG.md#1.0.2)
+- [1.0.1](https://github.com/Tuumke/valheimmods/blob/main/CHANGELOG.md#1.0.1)
+- [1.0.0](https://github.com/Tuumke/valheimmods/blob/main/CHANGELOG.md#1.0.0)
 
 # [Version 1.0.3](#1.0.3)
 Updated AzuAutoStore toAzumatt-AzuAutoStore-3.0.8
