@@ -1,6 +1,6 @@
 {
     "name": "OC_COOP_ModPack",
-    "version_number": "1.0.2",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/Tuumke/valheimmods",
     "description": "The modpack we use on our COOP server",
     "dependencies": [
@@ -8,7 +8,7 @@
         "Searica-AdvancedTerrainModifiers-1.4.1",
         "TastyChickenLegs-AutomaticFuel-1.4.4",
         "eideehi-Automatics-1.5.1",
-        "Azumatt-AzuAutoStore-3.0.7",
+        "Azumatt-AzuAutoStore-3.0.8",
         "Azumatt-AzuCraftyBoxes-1.7.2",
         "Azumatt-AzuExtendedPlayerInventory-1.4.9",
         "Smoothbrain-Backpacks-1.3.6",
