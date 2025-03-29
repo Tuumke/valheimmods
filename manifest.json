@@ -1,6 +1,6 @@
 {
     "name": "OC_COOP_ModPack",
-    "version_number": "1.0.3",
+    "version_number": "1.0.4",
     "website_url": "https://github.com/Tuumke/valheimmods",
     "description": "The modpack we use on our COOP server",
     "dependencies": [
@@ -32,10 +32,10 @@
         "TastyChickenLegs-RecyclePlus-1.3.0",
         "Soloredis-RtDBiomes-2.8.7",
         "Soloredis-RtDHorrors-0.3.8",
-        "Soloredis-RtDItems-0.8.8",
-        "Soloredis-RtDMonsters-2.0.5",
+        "Soloredis-RtDItems-0.9.0",
+        "Soloredis-RtDMonsters-2.0.7",
         "Soloredis-RtDOcean-1.4.4",
-        "RustyMods-Seasonality-3.5.0",
+        "RustyMods-Seasonality-3.5.1",
         "RustyMods-Seasonality_HD_Texture_Pack-0.0.7",
         "JereKuusela-Server_Sync_Fix-1.3.0",
         "Azumatt-SleepingBag-1.0.8",
