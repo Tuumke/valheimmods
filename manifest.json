@@ -1,6 +1,6 @@
 {
     "name": "OC_COOP_ModPack",
-    "version_number": "1.0.5",
+    "version_number": "1.0.6",
     "website_url": "https://github.com/Tuumke/valheimmods",
     "description": "The modpack we use on our COOP server",
     "dependencies": [
@@ -35,6 +35,8 @@
         "Soloredis-RtDItems-0.9.0",
         "Soloredis-RtDMonsters-2.0.8",
         "Soloredis-RtDOcean-1.4.5",
+        "Soloredis-RtDFairyTale-0.3.0",
+        "Soloredis-RtDAdditions-0.6.8",
         "RustyMods-Seasonality-3.5.1",
         "RustyMods-Seasonality_HD_Texture_Pack-0.0.7",
         "JereKuusela-Server_Sync_Fix-1.3.0",
